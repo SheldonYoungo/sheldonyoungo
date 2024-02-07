@@ -1,10 +1,22 @@
-### Hola 👋, soy **Sheldon Youngo**
-#### ------------Desarrollador Fullstack--------------
-![------------Desarrollador Fullstack--------------](https://media.licdn.com/dms/image/D4E16AQG-My0tnGR-Mg/profile-displaybackgroundimage-shrink_350_1400/0/1685467427265?e=1712793600&v=beta&t=Jj_2AVmBwj0bGolckd8Lku_MB2T1pWWaA7haNBzXA6w)
+![](https://media.licdn.com/dms/image/D4E16AQG-My0tnGR-Mg/profile-displaybackgroundimage-shrink_350_1400/0/1685467427265?e=1712793600&v=beta&t=Jj_2AVmBwj0bGolckd8Lku_MB2T1pWWaA7haNBzXA6w)
+<h1>Hola 👋, soy <strong>Sheldon Youngo - Fullstack Developer</strong> </h1>
 
 Soy un entusiasta de las nuevas tecnologías y apasionado de la informática. Actualmente me encuentro estudiando para ser Técnico Superior en Informática, cursando el penúltimo semestre de mi carrera.
 
-Habilidades: **Nodejs/ Express/ PHP/ Laravel/ MySQL/ PostgreSQL/ HTML/ CSS/ React**
+<h2>Habilidades y Frameworks ✔:</h2> 
+- <h3>Backend 🌐: </h3>
+  - 🍃 Nodejs 
+  - Express/ 
+  - PHP/ 
+  - Laravel/ 
+- <h3>Frontend 💻:</h3>
+  - HTML-CSS 
+  - React
+  - Boostrap
+- <h3>Bases de datos 🗃:</h3>
+  - MySQL/ 
+  - PostgreSQL/ 
+
 
 - 🌱 Estoy aprendiendo **Laravel y PHP.** 
 - 👯 Quiero colaborar con personas que sean entusiastas e igual de apasionadas por la programación. 
