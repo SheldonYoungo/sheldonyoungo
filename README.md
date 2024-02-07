@@ -4,18 +4,18 @@
 Soy un entusiasta de las nuevas tecnologías y apasionado de la informática. Actualmente me encuentro estudiando para ser Técnico Superior en Informática, cursando el penúltimo semestre de mi carrera.
 
 <h2>Habilidades y Frameworks ✔:</h2> 
-- <h3>Backend 🌐: </h3>
- - 🍃 Nodejs 
- - Express/ 
- - PHP/ 
- - Laravel/ 
-- <h3>Frontend 💻:</h3>
- - HTML-CSS 
- - React
- - Boostrap
-- <h3>Bases de datos 🗃:</h3>
- - MySQL/ 
- - PostgreSQL/ 
+* <h3>Backend 🌐: </h3>
+ * Nodejs 
+ * Express/ 
+ * PHP/ 
+ * Laravel/ 
+* <h3>Frontend 💻:</h3>
+ * HTML-CSS 
+ * React
+ * Boostrap
+* <h3>Bases de datos 🗃:</h3>
+ * MySQL/ 
+ * PostgreSQL/ 
 
 
 - 🌱 Estoy aprendiendo **Laravel y PHP.** 
