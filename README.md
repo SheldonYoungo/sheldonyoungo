@@ -5,28 +5,20 @@ Soy un entusiasta de las nuevas tecnologías y apasionado de la informática. Ac
 #####
 <h2>Habilidades y Frameworks ✔:</h2> 
 
-* <h3>Backend 🌐: </h3>
+- ### Backend 🌐:
   - Nodejs 
   - Express
   - PHP 
   - Laravel
-* <h3>Frontend 💻:</h3>
+- ### Frontend 💻:
   - HTML-CSS 
   - React
   - Boostrap
-* <h3>Bases de datos 🗃:</h3>
+- ### Bases de datos 🗃
   - MySQL
   - PostgreSQL
 
-
+#####
 - 🌱 Estoy aprendiendo **Laravel y PHP.** 
 - 👯 Quiero colaborar con personas que sean entusiastas e igual de apasionadas por la programación. 
 - 📫 Cómo contactarme: sheldonyoungodev@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SheldonYoungo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sheldon-youngo//)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheldonYoungo)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SheldonYoungo)  
-
