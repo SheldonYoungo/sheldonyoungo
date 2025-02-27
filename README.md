@@ -17,6 +17,7 @@ Soy un entusiasta de las nuevas tecnologías y apasionado de la informática. Ac
 - ### Bases de datos 🗃
   - MySQL
   - PostgreSQL
+  - SQL Server
 
 #####
 - 🌱 Estoy aprendiendo **Laravel y PHP.** 
