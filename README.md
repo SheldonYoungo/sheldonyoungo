@@ -20,6 +20,5 @@ Soy un entusiasta de las nuevas tecnologías y apasionado de la informática. Ac
   - SQL Server
 
 #####
-- 🌱 Estoy aprendiendo **Laravel y PHP.** 
 - 👯 Quiero colaborar con personas que sean entusiastas e igual de apasionadas por la programación. 
 - 📫 Cómo contactarme: sheldonyoungodev@gmail.com 
